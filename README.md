@@ -1,8 +1,8 @@
 # chat-kittenware
 get a excutable software by chat
 
-## 零基础直接使用，不需要配置开发环境
-对话式直接生成EXE可执行文件
+## 一句话直接生成EXE可执行文件
+零基础直接安装，对话即可生成想要的小工具
 平替metaGPT
 
 ## 喵星人软件所 下载release中的kittenware_setup.exe
