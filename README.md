@@ -17,7 +17,6 @@ get a excutable software by chat
 一个倒播软件
 ![image](https://github.com/user-attachments/assets/75e922f9-9bc4-4707-88b9-1b0e297a050d)
 
-
-##（喜欢低调一点的样式） chat程序侠版本 下载release中的chat-codemaster_setup.exe
+## （办公用想要个风格低调的就选择这个版本） chat程序侠版本 下载release中的chat-codemaster_setup.exe
 ![13411725349708_ pic](https://github.com/user-attachments/assets/065db448-4e6e-4f8d-b5ad-a8f60a7d30e4)
 ![13421725349748_ pic](https://github.com/user-attachments/assets/6e5db3c0-d19e-4e25-8543-50bbda7baf80)
